@@ -245,4 +245,8 @@
     .menu-spacing {
         display: none;
     }
+
+    .main-content h2 {
+        font-size: 6rem;
+    }
 }
